@@ -1,0 +1,15 @@
+C:\Users\richard\Desktop\C#\miProyecto\bin\Debug\net6.0\miProyecto.exe
+C:\Users\richard\Desktop\C#\miProyecto\bin\Debug\net6.0\miProyecto.deps.json
+C:\Users\richard\Desktop\C#\miProyecto\bin\Debug\net6.0\miProyecto.runtimeconfig.json
+C:\Users\richard\Desktop\C#\miProyecto\bin\Debug\net6.0\miProyecto.dll
+C:\Users\richard\Desktop\C#\miProyecto\bin\Debug\net6.0\miProyecto.pdb
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.csproj.AssemblyReference.cache
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.AssemblyInfoInputs.cache
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.AssemblyInfo.cs
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.csproj.CoreCompileInputs.cache
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.dll
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\refint\miProyecto.dll
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.pdb
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\miProyecto.genruntimeconfig.cache
+C:\Users\richard\Desktop\C#\miProyecto\obj\Debug\net6.0\ref\miProyecto.dll
